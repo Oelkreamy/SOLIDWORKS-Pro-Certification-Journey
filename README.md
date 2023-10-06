@@ -1,6 +1,6 @@
 # SOLIDWORKS Certification Journey Repository
 
-![SOLIDWORKS Logo](insert_link_to_solidworks_logo_image_here)
+![SOLIDWORKS Logo](Logo.png)
 
 ## Purpose
 
